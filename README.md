@@ -31,8 +31,7 @@ http://tableau.io/
 http://portal.io/
 ```
  
-### 참고 파일
- - virtual host 설정
+### virtual host 설정
 ```
  ~tomcat-virtual-host/libexec/conf/server.xml
 ```
